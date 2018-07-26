@@ -25,8 +25,8 @@ ax1.add_artist(circle)
 ax1.plot()
 
 ax2.set_title('Pi estimate')
-ax2.set_xlabel('iterations')
-ax2.set_ylabel('pi')
+ax2.set_xlabel('Iterations')
+ax2.set_ylabel('Pi')
 ax2.plot()
 
 
